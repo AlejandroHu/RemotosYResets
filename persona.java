@@ -1,2 +1,2 @@
 int edad
-double decimales
+int año
